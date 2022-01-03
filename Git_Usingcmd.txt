@@ -1,2 +1,10 @@
 git log: 깃에 올린 내역 확인 가능
 ※ log에서 q를 누르면 log 빠져나옴
+
+git push -f: 강제 push
+
+git commit --amend: commit 메세지 수정 => unix editor
+- 수정모드: A 후 INSERT 상태에서 수정
+- ESC 누르고, :wq!입력하고 누르면 실제로 커밋 메세지가 바뀜
+
+git satus: 상태 확인
