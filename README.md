@@ -14,7 +14,7 @@ int main(void)
 
 링크는 다음과 같이 작성할 수 있다.
 
-[링크의 이름(블로그 주소)] (https://www.google.com/Kukvly(사이트 URL))
+[링크의 이름(블로그 주소)] (https://github.com/Kukvly(사이트 URL))
 
 순서 없는 목록은 다음과 같이 작성할 수 있다.
 * 깃 매뉴얼
